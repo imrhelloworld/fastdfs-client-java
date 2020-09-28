@@ -24,9 +24,9 @@ mvn install:install-file -DgroupId=org.csource -DartifactId=fastdfs-client-java 
 
 ```xml
 <dependency>
-    <groupId>org.csource</groupId>
+    <groupId>com.mrhelloworld</groupId>
     <artifactId>fastdfs-client-java</artifactId>
-    <version>1.29-SNAPSHOT</version>
+    <version>1.29</version>
 </dependency>
 ```
 
